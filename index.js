@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Magic Crimelife","Release soon"];
+const statusMessages = ["Skylife Roleplay","Release soon","by whiteboy"];
 
 
 let currentIndex = 0;
